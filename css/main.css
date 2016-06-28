@@ -2,6 +2,32 @@ body{
 	background-color: #b3ffb3;
 }
 
+/* Nav Bar */
+.nav li a:hover{
+	background-color: #cc66ff;
+}
+
+.nav ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	background-color: #f7eee6;
+}
+
+.nav li{
+	float: left;
+}
+
+.nav li a{
+	display: inline-block;
+	color:blue;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+
 /*code for smiley face*/
 .face{
   width:75px;
