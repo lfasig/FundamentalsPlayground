@@ -1,0 +1,62 @@
+body{
+	background-color: #b3ffb3;
+}
+
+/*code for smiley face*/
+.face{
+  width:75px;
+  height: 75px;
+  border: 2px solid black;
+  background-color: yellow;
+  border-radius: 40px;
+}
+.left-eye{
+  width: 6px;
+  height: 6px;
+  border: 1px solid black;
+  border-radius: 3px;
+  position: relative;
+  left: 32px;
+  top: 26px;
+  background-color: black;
+}
+#inner-eye{
+  width: 2px;
+  height: 2px;
+  border: 1px solid white;
+  border-radius: 2px;
+  position: relative;
+  left: 2px;
+  top: 2px;
+  background-color: white; 
+}
+.eyebrow{
+  width: 7px;
+  height: 2px;
+  background-color: black;
+  position: relative;
+  left: 0px;
+  bottom: 8px;
+}
+
+.right-eye{
+  width: 6px;
+  height: 6px;
+  border: 1px solid black;
+  border-radius: 3px;
+  position: relative;
+  left: 52px;
+  top: 18px;
+  background-color: black;
+}
+.mouth{
+  width:30px;
+  height: 10px;
+  border:1px solid black;
+  border-radius: 0px 0px 45px 45px;
+  background-color: black;
+  margin: 16px;
+  position: relative;
+  top: 1em;
+  left: 1em;
+}
