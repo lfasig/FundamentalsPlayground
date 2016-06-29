@@ -86,3 +86,9 @@ body{
   top: 1em;
   left: 1em;
 }
+
+/*bootstrap*/
+.project{
+	height: 300px;
+	width: 250px;
+}
